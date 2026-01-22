@@ -1,6 +1,7 @@
 replicaCount: 1
-
-resources: 
+resources:
   requests:
     cpu: 50m
     memory: 64Mi
+image:
+  tag: 5d9d85
