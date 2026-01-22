@@ -4,10 +4,11 @@ metadata:
   name: python-app-5
   description: Python app displays the time and named python-app-5.
   annotations:
-    github.com/project-slug: rubenpinzon/python-app-5
+    github.com/project-slug: ruben-pinzon/python-app-5
     backstage.io/techdocs-ref: dir:.
 spec:
   type: service
   owner: development
 
   lifecycle: experimental
+
