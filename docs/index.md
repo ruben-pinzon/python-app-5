@@ -9,4 +9,5 @@ Here you could expand on what each of these endpoints do.
 # How to access the app?
 
 You can access the app by accessing this URL:
-- `python-app-5-dev.local/api/v1/info`
+- `http://python-app-5-dev.local/api/v1/info`
+
